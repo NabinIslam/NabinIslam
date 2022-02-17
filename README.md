@@ -1,27 +1,22 @@
 ### Hi there 👋, I'm Nabin Islam
-#### WordPress Expert
+#### Flutter Mobile Application Developer
 ![WordPress Expert](https://content.invisioncic.com/u312729/monthly_2021_08/1582523927_NabinIslam.png.d55e49c6811efa608064bddb76a76a1b.png)
 
 Hi there!
-I'm Nabin, a Professional WordPress Developer. I am highly experienced in WordPress. If you are looking for WordPress Expert for building your desire website then you are at the right place now. I am Ready to provide Professional WordPress Website services for you. I can give you any kind of support in WordPress website.
+I'm Nabin, a Professional Mobile Application Developer. I am highly experienced in Flutter Framework. If you are looking for Flutter Expert for building your desire application then you are at the right place now. I am Ready to provide Professional Mobile Application services for you. I can give you any kind of support in Flutter.
 Currently, I am trying to build my career with this website.
 
 Expertise / Skill Sets
 =
-✓ PsD/ Figam/ Xd to HTML 5 Responsive Bootstrap 5
-✓ PsD/ Figam/ Xd to WordPress/ Elementor
-✓ WordPress Theme Customization (Premium/ Free)
-✓ Elementor/ Divi Builder/ Visual Composer/ Beaver Builder/ WPBakery
-✓ Mailchimp Email Platform/ Email Marketing & eCommerce Automation Expert
-✓ Payment/ Booking/ Appointment Scheduling Method Integration
-✓ Slider Revolution Expert
-✓ WooCommerce Website
-✓ WordPress Migration/ Transfer Website to another domain or host
-✓ WordPress Speed Optimization/ SEO Optimization
-✓ WordPress Malware Removal
-✓ WordPress Security Improvement
-✓ WordPress Bug Fixing
-✓ Photoshop Editing
+✔️ Flutter UI design
+✔️ Dart Programming
+✔️ Flutter stateless & stateful widget
+✔️ CRUD
+✔️ OOP
+✔️ MVC pattern
+✔️ REST API
+✔️ Firebase
+✔️ MySQL Database
 
 Why hire me?
 =
@@ -35,11 +30,11 @@ Why hire me?
 
 Thank you so much.
 
-Skills: HTML 5 / CSS 3 / BOOTSTRAP 5 / WORDPRESS
+Skills: Flutter / Dart
 
-- 🔭 I’m currently working on nabinislam.com 
+- 🔭 I’m currently working on nabinislam.xyz 
 - 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about App Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabinIslam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabinislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nabin.islam2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabin_islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NabinIslam8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nabinislam.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+8801743724938)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](nabin_islam)  
