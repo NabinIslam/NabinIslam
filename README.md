@@ -33,5 +33,5 @@ Thank you so much.
 Skills: Flutter / Dart
 
 - 🔭 I’m currently working on nabinislam.xyz 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Laravel 
 - 💬 Ask me about App Development
