@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nabin Islam
-#### Flutter Mobile Application Developer
+#### Mobile Application Developer | Flutter
 
 
 Hi there!
