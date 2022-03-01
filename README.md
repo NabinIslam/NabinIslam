@@ -8,7 +8,7 @@ I'm Nabin, a Professional Mobile Application Developer. I am highly experienced 
 
 Expertise / Skill Sets
 =
-✔️ Flutter UI design
+✔️ Flutter Responsive UI design
 ✔️ Dart Programming
 ✔️ Flutter stateless & stateful widget
 ✔️ CRUD
