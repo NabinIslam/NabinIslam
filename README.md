@@ -1,37 +1,22 @@
-### Hi there 👋, I'm Nabin Islam
-#### Web/Mobile Application Developer | React | Flutter
+<h1 align="center">Hi 👋, I'm Nabin Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <a href="https://twitter.com/nabinislam8" target="blank"><img src="https://img.shields.io/twitter/follow/nabinislam8?logo=twitter&style=for-the-badge" alt="nabinislam8" /></a> </p>
 
-Hi there!
-I'm Nabin, a Professional Web and Mobile Application Developer. I am highly experienced in React and Flutter Framework. If you are looking for React or Flutter Expert for building your desire application then you are at the right place now. I am Ready to provide Professional Web and Mobile Application services for you. I can give you any kind of support in React or Flutter.
+- 🌱 I’m currently learning **Next.js**
 
+- 💬 Ask me about **React**
 
-Expertise / Skill Sets
-=
-✔️ Flutter Responsive UI design
-✔️ JavaScript/Dart Programming
-✔️ Flutter stateless & stateful widget
-✔️ CRUD
-✔️ OOP
-✔️ MVC pattern
-✔️ REST API
-✔️ Firebase
-✔️ MySQL Database
+- 📫 How to reach me **sinabin62246@gmail.com**
 
-Why hire me?
-=
-✓ I am highly experienced
-✓ I provide high-quality work
-✓ I deliver work very fast
-✓ I provide lifetime support
-✓ I am 24/7 available
-✓ I will give unlimited revisions
-✓ I have good communication skill
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nabinislam8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabinislam8" height="30" width="40" /></a>
+<a href="https://fb.com/nabin.islam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabin.islam2" height="30" width="40" /></a>
+<a href="https://instagram.com/nabin_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin_islam" height="30" width="40" /></a>
+</p>
 
-Thank you so much.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Skills: Flutter / Dart , React / JavaScript
-
-- 🔭 I’m currently working on nabinislam.xyz 
-- 🌱 I’m currently learning Laravel 
-- 💬 Ask me about App Development
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabinislam&show_icons=true&locale=en&layout=compact" alt="nabinislam" /></p>
