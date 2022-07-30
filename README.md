@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nabinislam8" target="blank"><img src="https://img.shields.io/twitter/follow/nabinislam8?logo=twitter&style=for-the-badge" alt="nabinislam8" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **React**
 
