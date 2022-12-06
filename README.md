@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabin Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend web application developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://twitter.com/nabinislam8" target="blank"><img src="https://img.shields.io/twitter/follow/nabinislam8?logo=twitter&style=for-the-badge" alt="nabinislam8" /></a> </p>
 
