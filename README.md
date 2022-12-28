@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://rb.gy/wf9rew](https://rb.gy/wf9rew)
 
-- ⚡ Fun fact **I love to eat Biriany**
+- ⚡ Fun fact **I love to eat Biriani 🍛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
