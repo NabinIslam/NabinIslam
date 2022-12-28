@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sinabin62246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PZGnzP3ul8Ys3-5HQK6xb4VBLWOimVn9/view?usp=share_link](shorturl.at/gLQ18)
+- 📄 Know about my experiences [shorturl.at/gLQ18](shorturl.at/gLQ18)
 
 - ⚡ Fun fact **I love to eat Biriany**
 
