@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kinun - Ecommerce Store](https://github.com/NabinIslam/kinun-react-ecommerce-store)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NabinIslam](https://github.com/NabinIslam)
 
