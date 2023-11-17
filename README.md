@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sinabin62246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pb2zwV_BbfZg73z_IWhQVcMbZDJQmXYx/view?usp=sharing](https://drive.google.com/file/d/1Pb2zwV_BbfZg73z_IWhQVcMbZDJQmXYx/view?usp=sharing)
+- 📄 Know about my experiences [https://cutt.ly/cwUyLyqK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
