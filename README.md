@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabin</h1>
-<h3 align="center">A passionate React Developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 - 💬 Ask me about **React.js | Next.js | Node.js | Express.js | MongoDB**
 
